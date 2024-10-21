@@ -1,5 +1,5 @@
 libft.h
-:ledger: libft.h is the header file for my custom C library called Libft. This library contains a collection of commonly used functions that replicate standard C library functions and other useful utilities.
+# :ledger: libft.h is the header file for my custom C library called Libft. This library contains a collection of commonly used functions that replicate standard C library functions and other useful utilities.
 
 Purpose:
 The goal of Libft is to create my own versions of standard functions, practice my C programming skills, and develop a deeper understanding of how these functions work under the hood. By building these functions from scratch, I ensure that I have complete control over memory management and functionality.
